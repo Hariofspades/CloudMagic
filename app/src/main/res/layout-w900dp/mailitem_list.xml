@@ -23,8 +23,6 @@
         android:name="com.few.cloudmagic.MailItemListFragment"
         android:layout_width="@dimen/item_width"
         android:layout_height="match_parent"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
         app:layoutManager="LinearLayoutManager"
         tools:context=".activities.MailItemListActivity"
         tools:listitem="@layout/mailitem_list_content" />
